@@ -1,0 +1,6 @@
+﻿NAME: Nathaniel C. Campo
+SECTION: CMSC 100 - UV3L
+FILE DESCRIPTION: Expectations with the CMSC 100 Course
+
+
+        For this class, I expect to learn more about web development and to harness my front end development skills which would be beneficial in the future as I step into the industry. Aside from the technical skills, I would also expect to learn communication skills, and camaraderie as we complete our group final project. Hopefully, we get to design and develop useful and efficient web applications.
