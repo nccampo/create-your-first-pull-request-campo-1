@@ -4,3 +4,10 @@ FILE DESCRIPTION: Expectations with the CMSC 100 Course
 
 
         For this class, I expect to learn more about web development and to harness my front end development skills which would be beneficial in the future as I step into the industry. Aside from the technical skills, I would also expect to learn communication skills, and camaraderie as we complete our group final project. Hopefully, we get to design and develop useful and efficient web applications.
+
+PARTNER'S AGREEMENT: 
+        NAME: Neil Vincent S. Alday
+        
+        I agree with Nathan! Expecting to learn more about web development and to harness one's front end development skills is what 
+        one would need to expect to be able to fully be enthralled with this course. I also do hope to design and develop efficient 
+        web applications.
